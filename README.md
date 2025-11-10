@@ -85,7 +85,7 @@ Ejecutar el archivo `crear_usuario.py` que se encuentra en la raíz del proyecto
 
 ### 🚀 Ejecutar la aplicación
 
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 
 ### 🌐 Frontend
 
@@ -108,4 +108,5 @@ Ver el historial de inscripciones.
 - Jerónimo Besso
 - Gaspar Cavallero
 - Camilo Ciccioli
+
 
