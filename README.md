@@ -56,7 +56,7 @@ Este proyecto consiste en una API REST desarrollada con **FastAPI** y **SQLAlche
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/Jeronimo-Besso/Pagina-Eventos.git
+git clone https://github.com/GasparCavallero/Pagina-Eventos.git
 cd Pagina-Eventos
 
 ### 2. Crear y activar entorno virtual
@@ -108,3 +108,4 @@ Ver el historial de inscripciones.
 - Jerónimo Besso
 - Gaspar Cavallero
 - Camilo Ciccioli
+
